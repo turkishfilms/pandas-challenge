@@ -45,6 +45,10 @@ Average reading score
 
 % overall passing (the percentage of students who passed math AND reading)
 
+
+--
+
+
 Highest-Performing Schools (by % Overall Passing)
 Sort the schools by % Overall Passing in descending order and display the top 5 rows.
 
