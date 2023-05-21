@@ -108,3 +108,17 @@ Scores by School Type
 Use the per_school_summary DataFrame from the previous step to create a new DataFrame called type_summary.
 
 This new DataFrame should show school performance based on the "School Type".
+
+
+
+-------------------------------------------------
+Reginald, Thank you for submitting your homework assignment! You were able to output some PyCitySchools respective data, but you missed a few things: 
+- The locations of csv were pointing to an absolute path instead of relative path. 
+- Student count, Percentage of Student who passed math, Percentage of Student who passed read, Percentage of Student who passed both(Math & Read) values are wrong in District Summary. 
+- You were on the right track on creating a new DataFrame for the above calculations in School Summary, but the answer should have been a single row stating the total values not per school but overall. 
+- Forgot to create the DateFrame in Highest-Performing Schools. 
+- Forgot to create the DateFrame in Lowest-Performing Schools. 
+- The 11th column values are wrong in Math Scores by Grade. 
+- The 11th column values are wrong in Reading Scores by Grade. 
+- Forgot to use pd.cut with the provided code to bin the data in Scores by School Spending 
+- Forgot the Written Report. Please try to utilize office hours, tutoring and learning assistance on a regular basis, this is the beginning of the journey. If you need any help or assistance feel free to reach out to your TA.
